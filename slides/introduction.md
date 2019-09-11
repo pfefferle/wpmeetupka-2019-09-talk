@@ -1,9 +1,9 @@
-## IndieWordPress
+## Warum IndieWeb?
 
-Warum <del>haben soziale Netzwerke</del> <ins>hat Facebook</ins> die privaten Webseiten/Weblogs verdrängt?
+WordPress Seiten (34,5%):
 
-Was spricht dennoch für das private Weblog?
+<strong>3.450.000</strong>
 
-Wie kann man das Beste aus beiden Welten verbinden?
+Facebook User (aktive):
 
-**...und was ist mit WordPress?**
+<strong>2.700.000.000</strong>
